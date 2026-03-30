@@ -1,5 +1,5 @@
 export const towns = [
-  { name: 'Mobile', slug: 'mobile', businesses: 0 },
+  { name: 'Mobile', slug: 'mobile-al', businesses: 0 },
   { name: 'Prichard', slug: 'prichard', businesses: 0 },
   { name: 'Saraland', slug: 'saraland', businesses: 0 },
   { name: 'Chickasaw', slug: 'chickasaw', businesses: 0 },
